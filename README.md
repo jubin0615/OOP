@@ -10,5 +10,5 @@
 - **인터페이스 구현 (Interface Implementation):** `Lsh` 클래스는 `Runnable` 인터페이스를 구현합니다.
 - **다형성 (Polymorphism):** `run()` 및 `study()` 메서드의 오버라이딩(Overriding)을 통해 다형성을 구현합니다.
 
-## ❤️ Dedication
+## ❤️
 This code is dedicated to Seunghyun Lee.
